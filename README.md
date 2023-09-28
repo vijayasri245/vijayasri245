@@ -1,12 +1,12 @@
 [![MasterHead](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1696464000&v=beta&t=hDOaRjLTsB_wiZnqca3h9MV92bdclrzpu5BY4cByS60)](https://vijayasri245.io)
 
 <h1 align="center">Hi 👋, I'm VIJAYA SRI PAKALAPATI</h1>
-<h3 align="center">A passionate frontend web developer from India</h3>
+<h3 align="center">"An enthusiastic frontend web developer who is eager to showcase my skills"</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijayasri245&label=Profile%20views&color=0e75b6&style=flat" alt="vijayasri245" /> </p>
 
-- 🔭 I’m currently working on **website development**
+- 🔭 I’m currently working on **Event Management Website**
 
 - 📫 How to reach me **vijayasriists20@gmail.com**
 
